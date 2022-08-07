@@ -1,17 +1,17 @@
-                                                                 ______________________________________________
-                                                                 |	 _____       _____    _____		            |
+                                                                 _________________________________________________
+                                                                 |	 _____       _____    _____		  |
                                                                  |	|     |  |  |        |          \      /  |
                                                                  |	|_____|  |  |_____   |      __   \    /   |
-                                                                 |	|   \    |     	  |  |   	        \  /    |
+                                                                 |	|   \    |     	  |  |   	  \  /    |
                                                                  |	|    \   |   _____|  |_____        \/     |
-                                                                 |____________________________________________|
+                                                                 |________________________________________________|
                                                                  
-Team Members:
-Antara Arun Agarwal - 2019CSB1076
-Bharat Sharma - 2019CSB1081
-Himanshi Nim - 2019CSB1090
-Jagadale Sangram Rajendra - 2019CSB1091
-Nupur Rathi - 2019CSB1104
+Team Members:<br/>
+<br/>Antara Arun Agarwal - 2019CSB1076
+<br/>Bharat Sharma - 2019CSB1081
+<br/>Himanshi Nim - 2019CSB1090
+<br/>Jagadale Sangram Rajendra - 2019CSB1091
+<br/>Nupur Rathi - 2019CSB1104
 
 About:
 RISC-V Simulator is a python based program which is a simulation to run machine code
